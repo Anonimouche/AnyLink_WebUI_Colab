@@ -5,7 +5,7 @@ All three colabs are modeified versions of Camenduru's Stable diffusion webUI co
 you can check their awesome work here: https://github.com/camenduru/stable-diffusion-webui-colab
 
 # Description
-This version add the option to download any model and/or VAE before lauching the WebUi.
+This version add the option to download any model and VAE before lauching the WebUi.
 
 # Issues
 For any issue regarding the downloading of files, feel free to issue your problem here.
