@@ -1,6 +1,6 @@
 # AnyLink WebUI Colab
 
-All three colabs are modeified versions of Camenduru's Stable diffusion webUI colabs.
+All three colabs are modified versions of Camenduru's Stable diffusion webUI colabs.
 
 you can check their awesome work here: https://github.com/camenduru/stable-diffusion-webui-colab
 
