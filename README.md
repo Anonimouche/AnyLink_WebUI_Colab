@@ -1,4 +1,5 @@
 # AnyLink WebUI Colab
+ATTENTION: This colab will only works with paid users  !!!!
 
 All three colabs are modified versions of Camenduru's Stable diffusion webUI colabs.
 
